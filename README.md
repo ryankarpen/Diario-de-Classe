@@ -1,0 +1,1 @@
+Esse código escrito em Python, busca simular um diário de classe virtual. Nesse diário, o usuário terá 3 opções: Cadastrar as notas de um novo aluno (opção1); mostrar as notas dos alunos cadastrados (opção2) ou sair do sistema (opção3).
